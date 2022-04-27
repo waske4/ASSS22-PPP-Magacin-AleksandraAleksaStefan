@@ -1,0 +1,24 @@
+unit frmSklProizvoda_u;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs;
+
+type
+  TfrmSklProizvoda = class(TForm)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmSklProizvoda: TfrmSklProizvoda;
+
+implementation
+  uses frmMain_u;
+{$R *.dfm}
+
+end.
