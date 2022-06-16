@@ -1,0 +1,15 @@
+﻿[Form3.FDQuery1]
+Visible=False
+
+[Form4.FDQuery1]
+Visible=False
+
+[Form4.FDQuery2]
+Visible=False
+
+[DataModule6.queryPoNazivu]
+Visible=False
+
+[DataModule6.queryIzMagacina]
+Visible=False
+

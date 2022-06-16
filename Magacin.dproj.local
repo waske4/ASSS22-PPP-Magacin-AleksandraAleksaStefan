@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022-05-11 19:20:52.000.811,=D:\Delphi 10.4 Pr\Unit1.pas</Transaction>
+    <Transaction>2022-05-11 19:21:57.000.596,D:\Delphi 10.4 Pr\Unit1.pas=D:\Delphi 10.4 Pr\Magacin\Unit1.pas</Transaction>
+    <Transaction>2022-05-11 19:21:57.000.596,D:\Delphi 10.4 Pr\Unit1.dfm=D:\Delphi 10.4 Pr\Magacin\Unit1.dfm</Transaction>
+    <Transaction>2022-05-11 19:22:16.000.358,D:\Delphi 10.4 Pr\Project1.dproj=D:\Delphi 10.4 Pr\Magacin\Magacin.dproj</Transaction>
+    <Transaction>2022-05-11 19:22:25.000.780,=D:\Delphi 10.4 Pr\Magacin\Unit2.pas</Transaction>
+    <Transaction>2022-05-11 19:56:26.000.858,=D:\Delphi 10.4 Pr\Magacin\Unit3.pas</Transaction>
+    <Transaction>2022-05-11 19:56:30.000.567,=D:\Delphi 10.4 Pr\Magacin\Unit4.pas</Transaction>
+    <Transaction>2022-06-06 18:26:59.000.699,=D:\Delphi 10.4 Pr\Magacin\Unit5.pas</Transaction>
+    <Transaction>2022-06-06 18:27:37.000.750,=D:\Delphi 10.4 Pr\Magacin\Unit6.pas</Transaction>
+    <Transaction>2022-06-06 18:28:05.000.209,D:\Delphi 10.4 Pr\Magacin\Unit6.dfm=D:\Delphi 10.4 Pr\Magacin\DataModul.dfm</Transaction>
+    <Transaction>2022-06-06 18:28:05.000.209,D:\Delphi 10.4 Pr\Magacin\Unit6.pas=D:\Delphi 10.4 Pr\Magacin\DataModul.pas</Transaction>
+    <Transaction>2022-06-06 18:28:35.000.656,D:\Delphi 10.4 Pr\Magacin\Unit5.pas=D:\Delphi 10.4 Pr\Magacin\Register.pas</Transaction>
+    <Transaction>2022-06-06 18:28:35.000.656,D:\Delphi 10.4 Pr\Magacin\Unit5.dfm=D:\Delphi 10.4 Pr\Magacin\Register.dfm</Transaction>
+    <Transaction>2022-06-06 18:34:23.000.105,D:\Delphi 10.4 Pr\Magacin\Unit1.dfm=D:\Delphi 10.4 Pr\Magacin\Login.dfm</Transaction>
+    <Transaction>2022-06-06 18:34:23.000.105,D:\Delphi 10.4 Pr\Magacin\Unit1.pas=D:\Delphi 10.4 Pr\Magacin\Login.pas</Transaction>
+    <Transaction>2022-06-06 18:37:24.000.970,D:\Delphi 10.4 Pr\Magacin\Unit2.dfm=D:\Delphi 10.4 Pr\Magacin\Odabir.dfm</Transaction>
+    <Transaction>2022-06-06 18:37:24.000.970,D:\Delphi 10.4 Pr\Magacin\Unit2.pas=D:\Delphi 10.4 Pr\Magacin\Odabir.pas</Transaction>
+    <Transaction>2022-06-06 18:37:50.000.962,D:\Delphi 10.4 Pr\Magacin\Unit3.pas=D:\Delphi 10.4 Pr\Magacin\SklMaterijala.pas</Transaction>
+    <Transaction>2022-06-06 18:37:50.000.962,D:\Delphi 10.4 Pr\Magacin\Unit3.dfm=D:\Delphi 10.4 Pr\Magacin\SklMaterijala.dfm</Transaction>
+    <Transaction>2022-06-06 18:38:03.000.683,D:\Delphi 10.4 Pr\Magacin\Unit4.pas=D:\Delphi 10.4 Pr\Magacin\SklProizvoda.pas</Transaction>
+    <Transaction>2022-06-06 18:38:03.000.683,D:\Delphi 10.4 Pr\Magacin\Unit4.dfm=D:\Delphi 10.4 Pr\Magacin\SklProizvoda.dfm</Transaction>
+    <Transaction>2022-06-09 18:53:18.000.293,=D:\Delphi 10.4 Pr\Magacin\Unit6.pas</Transaction>
+    <Transaction>2022-06-09 18:53:37.000.393,D:\Delphi 10.4 Pr\Magacin\Unit6.dfm=D:\Delphi 10.4 Pr\Magacin\PregMagacin.dfm</Transaction>
+    <Transaction>2022-06-09 18:53:37.000.393,D:\Delphi 10.4 Pr\Magacin\Unit6.pas=D:\Delphi 10.4 Pr\Magacin\PregMagacin.pas</Transaction>
+    <Transaction>2022-06-09 18:53:51.000.311,=D:\Delphi 10.4 Pr\Magacin\Unit7.pas</Transaction>
+    <Transaction>2022-06-09 18:54:05.000.785,D:\Delphi 10.4 Pr\Magacin\Unit7.dfm=D:\Delphi 10.4 Pr\Magacin\PregProizvod.dfm</Transaction>
+    <Transaction>2022-06-09 18:54:05.000.785,D:\Delphi 10.4 Pr\Magacin\Unit7.pas=D:\Delphi 10.4 Pr\Magacin\PregProizvod.pas</Transaction>
+    <Transaction>2022-06-09 18:54:11.000.337,=D:\Delphi 10.4 Pr\Magacin\Unit8.pas</Transaction>
+    <Transaction>2022-06-09 18:54:21.000.577,D:\Delphi 10.4 Pr\Magacin\Unit8.dfm=D:\Delphi 10.4 Pr\Magacin\UnosProizvod.dfm</Transaction>
+    <Transaction>2022-06-09 18:54:21.000.577,D:\Delphi 10.4 Pr\Magacin\Unit8.pas=D:\Delphi 10.4 Pr\Magacin\UnosProizvod.pas</Transaction>
+    <Transaction>2022-06-12 22:17:59.000.807,=D:\Delphi 10.4 Pr\Magacin\Unit9.pas</Transaction>
+    <Transaction>2022-06-12 22:19:07.000.506,D:\Delphi 10.4 Pr\Magacin\Unos.pas=D:\Delphi 10.4 Pr\Magacin\Unit9.pas</Transaction>
+    <Transaction>2022-06-12 22:19:07.000.506,D:\Delphi 10.4 Pr\Magacin\Unos.dfm=D:\Delphi 10.4 Pr\Magacin\Unit9.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="DataModul.pas"/>
+    <File Path="DataModul.dfm"/>
+    <File Path="Register.pas"/>
+    <File Path="Register.dfm"/>
+    <File Path="Login.pas"/>
+    <File Path="Login.dfm"/>
+    <File Path="Odabir.pas"/>
+    <File Path="Odabir.dfm"/>
+    <File Path="SklMaterijala.pas"/>
+    <File Path="SklMaterijala.dfm"/>
+    <File Path="SklProizvoda.pas"/>
+    <File Path="SklProizvoda.dfm"/>
+    <File Path="PregMagacin.pas"/>
+    <File Path="PregMagacin.dfm"/>
+    <File Path="PregProizvod.pas"/>
+    <File Path="PregProizvod.dfm"/>
+    <File Path="UnosProizvod.pas"/>
+    <File Path="UnosProizvod.dfm"/>
+    <File Path="Unos.pas"/>
+    <File Path="Unos.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
